@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class SimpleGameTest {
 
+	
 	@Test
 	void testConvertTime() {
 		SimpleGame game = new SimpleGame();
